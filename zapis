@@ -1,0 +1,10 @@
+# ELM
+naprosto imutabilni
+automaticky polymorfismus
+
+isJunior : { a | age: Int} -> Bool
+isJunior x =
+    x.age>20
+
+
+
